@@ -43,7 +43,7 @@ pip install pyaudio
 
 11. if you want to run the code again from starting
 ```bash
-cd Echoai
+cd Novaai
 python -m venv venv
 venv\Scripts\activate
 python ai_assistant.py
