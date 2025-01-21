@@ -15,8 +15,8 @@ ollama pull llama3.2
 
 6. Clone the Repository
 ```bash
-git clone https://github.com/ai-dud/Echoai.git
-cd Echoai
+git clone https://github.com/ai-dud/Novaai.git
+cd Novaai
 ```
 
 7. Change the policy
